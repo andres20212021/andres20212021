@@ -44,6 +44,12 @@ Uso GitHub Actions para:
 - Validar pipelines
 
 ---
+## 📂 Proyectos destacados
+
+| Proyecto | Pila | Descripción |
+|----------|------|------------|
+| [qa-portfolio-restful-booker](https://github.com/andres20212021/qa-portfolio-restful-booker) | Selenium 4 + Java 21 + Cucumber + allure reports | Pruebas end to end y validaciones con CI/CD en GitHub Actions |
+
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/andres-hern%C3%A1ndez-370a45190/
