@@ -15,6 +15,7 @@
 - Selenium con java y cucumber 
 - Postman
 - RobotFramework
+- ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A859?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### 🔹 Herramientas
 - GitHub Actions y Azure Devops
