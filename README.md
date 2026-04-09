@@ -48,7 +48,7 @@ Uso GitHub Actions para:
 
 | Proyecto | Pila | Descripción |
 |----------|------|------------|
-| [qa-portfolio-restful-booker](https://github.com/andres20212021/qa-portfolio-restful-booker) | Selenium 4 + Java 21 + Cucumber + allure reports | Pruebas end to end y validaciones con CI/CD en GitHub Actions |
+| [qa-portfolio-BDD-Seleium-java](https://github.com/andres20212021/Selenium-java-cucumber-allure-report) | Selenium 4 + Java 21 + Cucumber + allure reports | Pruebas end to end y validaciones con CI/CD en GitHub Actions |
 
 
 ## 📫 Contacto
