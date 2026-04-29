@@ -53,4 +53,4 @@ Uso GitHub Actions para:
 
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/andres-hern%C3%A1ndez-370a45190/
+- LinkedIn: https://www.linkedin.com/in/andres-hernández-370a45190/
