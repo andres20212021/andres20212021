@@ -50,7 +50,7 @@ Uso GitHub Actions para:
 | Proyecto | Pila | Descripción |
 |----------|------|------------|
 | [qa-portfolio-BDD-Seleium-java](https://github.com/andres20212021/Selenium-java-cucumber-allure-report) | Selenium 4 + Java 21 + Cucumber + allure reports | Pruebas end to end y validaciones con CI/CD en GitHub Actions |
-
+| (https://github.com/andres20212021/api-karate-tests) | Karate + Java 21 + Cucumber + Cucumber Reporting | Pruebas de apis con CI/CD en GitHub Actions |
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/andres-hernández-370a45190/
