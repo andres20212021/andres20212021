@@ -27,9 +27,9 @@
 ## 📂 Proyectos destacados
 
 - ### 🔸 UI Automation con Cypress
-- ### 🔸 UI Automation con selenium java cucumber con allure reports
-- ### 🔸 UI Automation con robotFramework
-- ### 🔸 Automation con karate Apis Rest
+- ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports
+- ### 🔸 UI Automation con RobotFramework
+- ### 🔸 Automation con Karate Apis Rest
 ---
 
 ## 📈 CI/CD
