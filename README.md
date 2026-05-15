@@ -3,8 +3,8 @@
 💡 Analista QA enfocado en calidad de software y pruebas automatizadas.
 
 ## 🚀 Sobre mí
-- 🔍 Experiencia en pruebas manuales APIs, pruebas automatizadas y manuales
-- 🧪 Testing con Postman, Cypress, Selenium java cucumber, RobotFramework
+- 🔍 Experiencia en pruebas automatizadas y manuales
+- 🧪 Testing con Postman, Cypress, Selenium java cucumber, RobotFramework y karate
 - ⚙️ CI/CD con GitHub Actions y Azure Devops
 - 📊 Enfoque en calidad y mejora continua
 
@@ -26,16 +26,19 @@
 
 ## 📂 Proyectos destacados
 
-### 🔸 UI Automation con Cypress
-- Login
-- Registro
-- Flujos críticos
-
-- ### 🔸 UI Automation con selenium java cucumber con allure reports
-- Login
-- Registro
-- Flujos críticos
-
+🔸 UI Test Automation with Cypress
+Automatización de flujos End to End
+Validación de funcionalidades críticas y regresión
+🔸 UI Test Automation with Selenium + Java + Cucumber
+Framework BDD con Page Object Model
+Generación de reportes con Allure Report
+🔸 Test Automation with Robot Framework
+Automatización funcional y validaciones E2E
+Integración con pipelines CI/CD
+🔸 API Test Automation with Karate DSL
+Automatización de APIs REST
+Validación de contratos, schemas y aserciones
+Pruebas Smoke, Regression y End to End
 ---
 
 ## 📈 CI/CD
