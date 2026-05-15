@@ -26,19 +26,10 @@
 
 ## 📂 Proyectos destacados
 
-🔸 UI Test Automation with Cypress
-Automatización de flujos End to End
-Validación de funcionalidades críticas y regresión
-🔸 UI Test Automation with Selenium + Java + Cucumber
-Framework BDD con Page Object Model
-Generación de reportes con Allure Report
-🔸 Test Automation with Robot Framework
-Automatización funcional y validaciones E2E
-Integración con pipelines CI/CD
-🔸 API Test Automation with Karate DSL
-Automatización de APIs REST
-Validación de contratos, schemas y aserciones
-Pruebas Smoke, Regression y End to End
+- ### 🔸 UI Automation con Cypress
+- ### 🔸 UI Automation con selenium java cucumber con allure reports
+- ### 🔸 UI Automation con robotFramework
+- ### 🔸 Automation con karate Apis Rest
 ---
 
 ## 📈 CI/CD
