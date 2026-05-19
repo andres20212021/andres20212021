@@ -3,7 +3,7 @@
 💡 Analista QA enfocado en calidad de software y pruebas automatizadas.
 
 ## 🚀 Sobre mí
-- 🔍 Experiencia en pruebas automatizadas y manuales
+- 🔍 Experiencia en pruebas automatizadas web, api rest y manuales
 - 🧪 Testing con Postman, Cypress, Selenium java cucumber, RobotFramework y karate
 - ⚙️ CI/CD con GitHub Actions y Azure Devops
 - 📊 Enfoque en calidad y mejora continua
@@ -44,7 +44,7 @@ Uso GitHub Actions para:
 
 | Proyecto | Pila | Descripción |
 |----------|------|------------|
-| [qa-portfolio-BDD-Seleium-java](https://github.com/andres20212021/Selenium-java-cucumber-allure-report) | Selenium 4 + Java 21 + Cucumber + allure reports | Pruebas end to end y validaciones con CI/CD en GitHub Actions |
+| [qa-portfolio-BDD-Seleium-java](https://github.com/andres20212021/Selenium-java-cucumber-allure-report) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea | Pruebas end to end y validaciones con CI/CD en GitHub Actions |
 | (https://github.com/andres20212021/api-karate-tests/blob/main/README.md) | Karate + Java 21 + Cucumber + Cucumber Reporting | Pruebas de apis con CI/CD en GitHub Actions |
 
 ## 📫 Contacto
