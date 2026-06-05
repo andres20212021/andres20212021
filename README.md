@@ -11,11 +11,11 @@
 ## 🧰 Stack QA
 
 ### 🔹 Automatización
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)-
-![Karate API Testing](https://img.shields.io/badge/Karate-API_Testing-black?style=for-the-badge&logo=karatelabs&logoColor=white)-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)-
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Karate API Testing](https://img.shields.io/badge/Karate-API_Testing-black?style=for-the-badge&logo=karatelabs&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A859?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### 🔹 Herramientas
@@ -26,7 +26,7 @@
 
 ## 📂 Proyectos destacados
 
-- ### 🔸 UI Automation con Cypress
+- ### 🔸 UI Automation con Cypress desarrollo en construcion....
 - ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports
 - ### 🔸 UI Automation con RobotFramework
 - ### 🔸 Automation con Karate Apis Rest
@@ -44,7 +44,7 @@ Uso GitHub Actions para:
 
 | Proyecto | Pila | Descripción |
 |----------|------|------------|
-| [qa-portfolio-BDD-Seleium-java](https://github.com/andres20212021/Selenium-java-cucumber-allure-report) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea | Pruebas de regresion y validaciones con CI/CD en GitHub Actions |
+| (https://github.com/andres20212021/Automatizacion-Selenium-Java-BDD-Web) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea | Pruebas de regresion y validaciones con CI/CD en GitHub Actions |
 | (https://github.com/andres20212021/api-karate-tests/blob/main/README.md) | Karate + Java 21 + Cucumber + Cucumber Reporting + IntelliJ IDEA | Pruebas de apis con CI/CD en GitHub Actions |
 
 ## 📫 Contacto
