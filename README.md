@@ -29,7 +29,7 @@
 - ### 🔸 UI Automation con Cypress (desarrollo pendiente)
 - ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports  (desarrollo desplegado)
 - ### 🔸 UI Automation con RobotFramework (desarrollo pendiente)
-- ### 🔸 Automation con Karate Apis Rest desarrollo en construcción
+- ### 🔸 Automation con Karate Apis Rest (desarrollo desplegado)
 ---
 
 ## 📈 CI/CD
