@@ -31,21 +31,20 @@
 - ### 🔸 UI Automation con Cypress (desarrollo pendiente)
 - ### 🔸 UI Automation con RobotFramework (desarrollo pendiente)
 ---
-
-## 📈 CI/CD
-
-Uso GitHub Actions para:
-- Ejecutar pruebas automáticamente
-- Generar reportes
-- Validar pipelines
-
 ---
-## 📂 Proyectos destacados
+## 📂 Proyectos desplegados
 
 | Proyecto | Pila | Descripción |
 |----------|------|------------|
 | (https://github.com/andres20212021/Automatizacion-Selenium-Java-BDD-Web) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea | Pruebas de regresion y validaciones con CI/CD en GitHub Actions |
 | (https://github.com/andres20212021/api-karate-tests/blob/main/README.md) | Karate + Java 21 + Cucumber + Cucumber Reporting + IntelliJ IDEA | Pruebas de apis con CI/CD en GitHub Actions |
+## 📈 CI/CD
+---
+Uso GitHub Actions para:
+- Ejecutar pruebas automáticamente
+- Generar reportes
+- Validar pipelines
+---
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/andres-hernández-370a45190/
