@@ -38,6 +38,7 @@
 |----------|------|------------|
 | (https://github.com/andres20212021/Automatizacion-Selenium-Java-BDD-Web) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea | Pruebas de regresion y validaciones con CI/CD en GitHub Actions |
 | (https://github.com/andres20212021/api-karate-tests/blob/main/README.md) | Karate + Java 21 + Cucumber + Cucumber Reporting + IntelliJ IDEA | Pruebas de apis con CI/CD en GitHub Actions |
+| (https://github.com/andres20212021/api-karate-tests/blob/main/README.md) | Cypress + Java + allure reports + visual studio code | Pruebas de regresion y validaciones con CI/CD en GitHub Actions  |
 ## 📈 CI/CD
 ---
 Uso GitHub Actions para:
