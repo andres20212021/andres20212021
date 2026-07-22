@@ -18,6 +18,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A859?style=for-the-badge&logo=robotframework&logoColor=white)
 
+
+## 🔹 Automatización
+
+![Selenium Java Cucumber](https://img.shields.io/badge/Selenium_+_Java_+_Cucumber-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Karate API Testing](https://img.shields.io/badge/Karate-API_Testing-black?style=for-the-badge&logo=karatelabs&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A859?style=for-the-badge&logo=robotframework&logoColor=white)
+
 ## 📂 Proyectos destacados
 
 - ### 🔸 Automation con Karate Apis Rest (desarrollo desplegado)
