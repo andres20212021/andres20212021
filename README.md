@@ -27,8 +27,6 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ## 📂 Proyectos destacados
 
 - ### 🔸 Automation con Karate Apis Rest (desarrollo desplegado)
