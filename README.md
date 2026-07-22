@@ -18,12 +18,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-00A859?style=for-the-badge&logo=robotframework&logoColor=white)
 
-### 🔹 Herramientas
-- GitHub Actions y Azure Devops
-- Jira
-- Postman
-- Zephyr 
-
 ## 📂 Proyectos destacados
 
 - ### 🔸 Automation con Karate Apis Rest (desarrollo desplegado)
