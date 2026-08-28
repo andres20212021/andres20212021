@@ -30,7 +30,8 @@
 ## 📂 Proyectos destacados
 
 - ### 🔸 Automation con Karate Apis Rest (desarrollo desplegado)
-- ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports (desarrollo desplegado)
+- ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports y POM (desarrollo desplegado)
+- - ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports, POM y PageFactory (desarrollo desplegado)
 - ### 🔸 UI Automation con Cypress (desarrollo desplegado)
 - ### 🔸 UI Automation con RobotFramework (desarrollo pendiente)
 ---
@@ -39,7 +40,8 @@
 
 | Proyecto | Pila | Descripción |
 |----------|------|------------|
-| (https://github.com/andres20212021/Automatizacion-Selenium-Java-BDD-Web) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea | Pruebas de regresion y validaciones con CI/CD en GitHub Actions |
+| (https://github.com/andres20212021/Automatizacion-Selenium-Java-BDD-Web) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea + POM | Pruebas de regresion y validaciones con CI/CD en GitHub Actions |
+| (https://github.com/andres20212021/Automatizacion-Selenium-Java-BDD-Web) | Selenium 4 + Java 21 + Cucumber + allure reports + intellij idea + POM + PageFactory | Pruebas de regresion y validaciones con CI/CD en GitHub Actions |
 | (https://github.com/andres20212021/api-karate-tests/blob/main/README.md) | Karate + Java 21 + Cucumber + Cucumber Reporting + IntelliJ IDEA | Pruebas de apis con CI/CD en GitHub Actions |
 | (https://github.com/andres20212021/Web-testing-with-Cypress) | Cypress + JavaScript + allure reports + visual studio code | Pruebas de regresion y validaciones con CI/CD en GitHub Actions  |
 
