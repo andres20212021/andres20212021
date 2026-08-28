@@ -31,7 +31,7 @@
 
 - ### 🔸 Automation con Karate Apis Rest (desarrollo desplegado)
 - ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports y POM (desarrollo desplegado)
-- - ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports, POM y PageFactory (desarrollo desplegado)
+- ### 🔸 UI Automation con Selenium Java Cucumber con Allure Reports, POM y PageFactory (desarrollo desplegado)
 - ### 🔸 UI Automation con Cypress (desarrollo desplegado)
 - ### 🔸 UI Automation con RobotFramework (desarrollo pendiente)
 ---
